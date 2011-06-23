@@ -1,0 +1,10 @@
+// for file not found error 404
+html_errors.404
+it will provide all the description that a user need to undestand
+
+// Error codes specified
+1X
+2X
+3X
+4X
+5X
