@@ -8,7 +8,7 @@ Gem::Specification.new do |s|
   s.platform    = Gem::Platform::RUBY
   s.authors     = ["Sprout - Chandra Mohan"]
   s.email       = ["chandra.thakur@sprout-technology.com"]
-  s.homepage    = ""
+  s.homepage    = "https://cmthakur@github.com/cmthakur/error_codes.git"
   s.summary     = %q{html_errors gem specify all the Html status codes generally required along with the description that the user wants to know what actually the error is for.}
   s.description = %q{html_errors gem for error status codes}
 
